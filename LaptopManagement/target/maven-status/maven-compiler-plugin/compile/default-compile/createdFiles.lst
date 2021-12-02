@@ -1,0 +1,7 @@
+com\myproject\laptop\service\LaptopServiceImpl.class
+com\myproject\laptop\entity\Laptop.class
+com\myproject\laptop\controller\LaptopController.class
+com\myproject\laptop\repository\LaptopRepository.class
+com\myproject\laptop\service\LaptopService.class
+com\myproject\laptop\DemoApplication.class
+com\myproject\laptop\repository\JDBCRepository.class
